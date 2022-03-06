@@ -3,7 +3,7 @@ Calculador de divisas, podras calcular cualquier tipo de cryptomonedas desde Tu 
 
 [![Screenshot-20220306-141835-Termux.jpg](https://i.postimg.cc/qv8Jpmt1/Screenshot-20220306-141835-Termux.jpg)](https://postimg.cc/9DQ5pYY9)
 
-# INSTALACION
+# INSTALAR
 
 ~$ git clone https://github.com/mauro199304/Calculador-de-Divisas/
 
