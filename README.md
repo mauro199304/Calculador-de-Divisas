@@ -6,5 +6,7 @@ Calculador de divisas, podras calcular cualquier tipo de cryptomonedas desde Tu 
 # INSTALACION
 
 ~$ git clone https://github.com/mauro199304/Calculador-de-Divisas/
+
 ~$ cd Calculador-de-Divisas
+
 ~$ bash install.sh
